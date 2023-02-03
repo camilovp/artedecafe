@@ -1,6 +1,13 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
 import {Carousel, CarouselItem} from 'react-bootstrap'
+import { listImages } from '../data/listImages'
+
+    const urlImages = listImages
+
+    const url1 = urlImages.find(url => url.name == "slider1")
+    const url2 = urlImages.find(url => url.name == "slider2")
+    const url3 = urlImages.find(url => url.name == "slider3")
 
 export const CarouselMenu = () => {
   return (
@@ -9,7 +16,7 @@ export const CarouselMenu = () => {
             <CarouselItem>
                 <img 
                     className='d-block w-100'
-                    src='..\src\assets\Frappe.jpg' 
+                    src={url1.url} 
                     alt='First Slide'
                 />
                 <Carousel.Caption>
@@ -19,7 +26,7 @@ export const CarouselMenu = () => {
             <CarouselItem>
                 <img 
                     className='d-block w-100' 
-                    src='..\src\assets\capuccino.jpg' 
+                    src={url2.url}
                     alt='Second Slide'
                 />
                 <Carousel.Caption>
@@ -29,7 +36,7 @@ export const CarouselMenu = () => {
             <CarouselItem>
                 <img 
                     className='d-block w-100' 
-                    src='..\src\assets\capuccino.jpg' 
+                    src={url3.url}
                     alt='Second Slide'
                 />
                 <Carousel.Caption>
