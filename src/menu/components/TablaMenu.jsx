@@ -1,11 +1,10 @@
-import React, { useMemo, useState } from 'react'
+import React, { useState } from 'react'
 import {Table} from 'react-bootstrap'
 import { getProductsByCategoria } from '../helpers/getProductsByCategoria'
 import { ModalImage } from './ModalImage'
 
 export const TablaMenu = ({categoryId}) => {
-    const products = useMemo(() => getProductsByCategoria(categoryId), [categoryId])
-
+    const products = getProductsByCategoria(categoryId)
     const [showModal, setShowModal] = useState(false)
     const [productSelect, setProductSelect] = useState({})
 
