@@ -15,7 +15,7 @@ export const CarouselMenu = () => {
         <Carousel>
             <CarouselItem>
                 <img 
-                    className='d-block w-100'
+                    className='d-block w-100 w-md-75 w-lg-50 mx-md-auto'
                     src={url1.url} 
                     alt='First Slide'
                 />
@@ -25,7 +25,7 @@ export const CarouselMenu = () => {
             </CarouselItem>
             <CarouselItem>
                 <img 
-                    className='d-block w-100' 
+                    className='d-block w-100 w-md-75 w-lg-50 mx-md-auto' 
                     src={url2.url}
                     alt='Second Slide'
                 />
@@ -35,7 +35,7 @@ export const CarouselMenu = () => {
             </CarouselItem>
             <CarouselItem>
                 <img 
-                    className='d-block w-100' 
+                    className='d-block w-100 w-md-75 w-lg-50 mx-md-auto' 
                     src={url3.url}
                     alt='Second Slide'
                 />
