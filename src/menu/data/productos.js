@@ -11,7 +11,7 @@ export const products = [
         "nombre":"Capuccino",
         "precio":6200,
         "categoria":2,
-        "imagen":"https://bl6pap003files.storage.live.com/y4mmGL0keavsLooZTIstbs9NFHiXO-lbTOIOL409e50Acl8fXIxdX3yq3ftKheZNGzYCIO5kdJLwGapglkyqAKKl1HCI3sO6gpxzP2A3bBxuUo_yQ8JPquvyW5RRwwixxapnWo1Wju7pT8SMjeCuLcoTAZ93J9kdCD-3HAAuGG7tZA?width=660&height=495&cropmode=none",
+        "imagen":"https://bl6pap003files.storage.live.com/y4mT29TJxqImQF4J8No8YiDNg1z3zvgvZ2YQ3aAFUJQHuuDqdo2QtGJmoU0YiQu-9QfMVfiDjS3X4C0iKfkFkqbHcBghJ0GNNMOvhSG4O-mGS4aUlRSTT8c7OqoQ7Jts2t90LnTl6yD2M8IyliSk7JC_wCAT5ZvMHg6SOfi6NgNF-I?width=660&height=495&cropmode=none",
     },
     {
         "id":3,
@@ -95,7 +95,7 @@ export const products = [
         "nombre":"Aromatica de Frutas",
         "precio":4200,
         "categoria":2,
-        "imagen":"https://bl6pap003files.storage.live.com/y4mTzlVmkT2vb2wzoC6FR_IHDxsYmPgSmcgXnN-oIuzZoMMFHJq9XTwI5UGxB9uHj2Sy2Hx0Bl4rxDsdoCk8sjdV0RvlvuxcNGXOIxOGsPd47nW6z46d7d_gNZecNXe54hUO6JAVVkXu1p1KnW640hfUMk7s0VB95V8xl4-7TGbErA?width=660&height=495&cropmode=none",
+        "imagen":"https://bl6pap003files.storage.live.com/y4muPchG_xIuS0NlK52hyhSpgcbZmUrGyRudEiHCp9eV86-NX1m2j_-yO6dFEjj0OgYZ4yvc87R8qvgFOAbInIHYVlJxDh8isN-pwoLdatjMUUJapDBPRjwRcr5QyA2lQJw99NwPXyDOm1vschfYSejfGmpkavNJrq0CNR6CKHz1mQ?width=570&height=422&cropmode=none",
     },
     {
         "id":15,
@@ -136,7 +136,7 @@ export const products = [
         "id":20,
         "nombre":"Milo",
         "precio":6500,
-        "categoria":1,
+        "categoria":2,
         "imagen":"https://bl6pap003files.storage.live.com/y4mZHypzj9aG6l1hkLPVRfhDwe-24u2dFifwU3rn-W8DLmZRlM3DNIYrKgz9Ef9LdoLF45tO-nEYvhyuwk2VpIgKtFDaZ5eSTV5BO4zktwkdznmLZ_-eXrWquSB91s6Y2hJMQpjXO6sTFYQqa_4ZJBlZ9fiPh17HFaNJpnJzhfjFQ8?width=425&height=318&cropmode=none",
     },
     {
@@ -233,7 +233,7 @@ export const products = [
     {
         "id":34,
         "nombre":"Lulada",
-        "precio":8000,
+        "precio":8500,
         "categoria":1,
         "imagen":"https://bl6pap003files.storage.live.com/y4mGsRgpORShMt2rnOu4f6Q2gHkQiUrfCr2zzi2H2-O9kG6Jz5gzG9x8eirQR7MIuoXnped5VxAAriKskpjD9p6OD1hBmINMIgnJEo-8Qnp1JCCQNNA6YtMWy1vXrp1MRkx_ZITj0aJdbCCf-FWvsluPf0uaoAzb7tyCBDctRutkrk?width=568&height=425&cropmode=none",
     },
@@ -246,8 +246,8 @@ export const products = [
     },
     {
         "id":36,
-        "nombre":"Torta",
-        "precio":6000,
+        "nombre":"Tortas",
+        "precio":6500,
         "categoria":3,
         "imagen":"https://bl6pap003files.storage.live.com/y4mCxEo3zACXxebdiXkMntqNcFK84xamwNKjgZXdYb19uQIKMdYY31OWeNIJxtfaKaInoP_MpCmEGeBhLX7I2yt71dpSyLKa8ChjZANvZC7uAsdb18dLuqsh-fzdHK0EG5qt06oMU3I6CL9Nq1GWF9ELnQ6_1cfJPUb7kKdJhSCmis?width=567&height=424&cropmode=none",
     },
@@ -256,7 +256,7 @@ export const products = [
         "nombre":"Torta de Vino",
         "precio":7000,
         "categoria":3,
-        "imagen":"https://bl6pap003files.storage.live.com/y4mCxEo3zACXxebdiXkMntqNcFK84xamwNKjgZXdYb19uQIKMdYY31OWeNIJxtfaKaInoP_MpCmEGeBhLX7I2yt71dpSyLKa8ChjZANvZC7uAsdb18dLuqsh-fzdHK0EG5qt06oMU3I6CL9Nq1GWF9ELnQ6_1cfJPUb7kKdJhSCmis?width=567&height=424&cropmode=none",
+        "imagen":"https://bl6pap003files.storage.live.com/y4mZMki_288yKwwLKqgXmVdgt9kTSSqzDf7gFSIEnf_hYV3Md41DBo-lviYUsMeMGV2tuBiF4Rp7ZQTPTauIY_XeA5AseL2qICqRii2VFKe-JmW9SSrhbRYi1HPvJywico4cdig6e_6p338IQ6ozPNrG4q2fQGCXCWY6nGIwajQbyw?width=570&height=404&cropmode=none",
     },
     {
         "id":38,
@@ -270,14 +270,7 @@ export const products = [
         "nombre":"Cheesecake",
         "precio":6000,
         "categoria":3,
-        "imagen":"https://bl6pap003files.storage.live.com/y4mCxEo3zACXxebdiXkMntqNcFK84xamwNKjgZXdYb19uQIKMdYY31OWeNIJxtfaKaInoP_MpCmEGeBhLX7I2yt71dpSyLKa8ChjZANvZC7uAsdb18dLuqsh-fzdHK0EG5qt06oMU3I6CL9Nq1GWF9ELnQ6_1cfJPUb7kKdJhSCmis?width=567&height=424&cropmode=none",
-    },
-    {
-        "id":40,
-        "nombre":"Postre Pequeño",
-        "precio":6000,
-        "categoria":3,
-        "imagen":"https://bl6pap003files.storage.live.com/y4mHd4Nv2zC-Tv0m2IcW5wxRLcOszGtViAwJNXbOPS0b-fJQcW-Ebet9Wl9hUvr65SxIrFRBSmWC2Ilodt7JLxNcpHVam97zZbTNA6IbSpB5Vbd8rQigFP8pfKKpBqz16pYJDqEJsttHSdEtb50FLepxHLoHNp7VqJZlSxOCoMsYfw?width=660&height=500&cropmode=none",
+        "imagen":"https://bl6pap003files.storage.live.com/y4mik6EtnQG0QIbSIbUYvinUXP42svEtvS8YtThoc3IzKAWq_q9oxFV58mYYVaPuzSAAPo_lfZ1A0uI4zntylvvvOstbAUYQQ5XpZZKhAvqvHVQULk_obkBLpGpVttyqS9QVUkc1qkoXs5V_pSopuJM6ouxAAzHfpXmvBJITLfIXDc?width=578&height=428&cropmode=none",
     },
     {
         "id":41,
@@ -289,7 +282,7 @@ export const products = [
     {
         "id":42,
         "nombre":"Brownie",
-        "precio":4000,
+        "precio":4500,
         "categoria":3,
         "imagen":"https://bl6pap003files.storage.live.com/y4mZI9ylSNqrF1kZMSZBYsuWsH9lncgCvDNJwO264JLMveNN88eGbOuSnmWaeOgbg0_XZ9fzXzYpyWm_-y8zuyl-Iu87iyi--tAG8CGRLqvaJ4o7qCoZd3ZS0rJaoTIo6accivKlNau6NM01NV2ngCbKnAPThfyAU8jfj_cVRAvXNg?width=570&height=425&cropmode=none",
     },
@@ -381,7 +374,15 @@ export const products = [
         "id":55,
         "nombre":"Granizado Convier",
         "precio":8500,
-        "categoria":1,
+        "categoria":5,
         "imagen":"https://bl6pap003files.storage.live.com/y4mbsAFCAwHimgf_rTLkxrWRE3DyOVxB7K0ZGAJjMzL9V2a7vmFSkhgbVox2DddrpvXpeIIdv53sZsfK603Or8KNFLMS6cD75DVlK332I_1OdBsZ8tOF1mv639k8uT1CT1tRsaQfdw-FWEUFcqMspwFPHHgfltIK85df3j-hM2UtS4?width=552&height=428&cropmode=none",
+    },
+    
+    {
+        "id":56,
+        "nombre":"Limonada de Coco",
+        "precio":8000,
+        "categoria":1,
+        "imagen":"https://bl6pap003files.storage.live.com/y4mVLQdV6tpa84zNFlHjHEJVxWAvyfbuMYAGbzPvhQnYyo_t9Y2QV8MtX5L3GW86Q4CYhO08WkTfTPoYRHuFpWwJlzQAW5_blMxe9kszAUYgSfvg_d7bQyrO5H6sKegYDfAvIPIRh1vdX1Hijt58ljFme2y1ZcvgFf4233SNHBVBKA?width=555&height=434&cropmode=none",
     },
 ]
