@@ -366,7 +366,7 @@ export const products = [
     {
         "id":54,
         "nombre":"Monster",
-        "precio":3500,
+        "precio":7000,
         "categoria":1,
         "imagen":"https://bl6pap003files.storage.live.com/y4mdXgrpIwPdVWL7ropLhAEvGOJ5EMR9Yy7OHos3U0DOQmZSb3tgSQmow4altVmWAbWx_G3E5G3vmrDA7ExBrKr-u-iDFsh1BblTC8PnrsTUGqPajBZKgIByk5bXNfI-qNfbQW4ivNQrbZXQVHf9NRxGiQn9EYUXToOelIoe-RoRqg?width=567&height=425&cropmode=none",
     },
@@ -384,5 +384,33 @@ export const products = [
         "precio":8000,
         "categoria":1,
         "imagen":"https://bl6pap003files.storage.live.com/y4mVLQdV6tpa84zNFlHjHEJVxWAvyfbuMYAGbzPvhQnYyo_t9Y2QV8MtX5L3GW86Q4CYhO08WkTfTPoYRHuFpWwJlzQAW5_blMxe9kszAUYgSfvg_d7bQyrO5H6sKegYDfAvIPIRh1vdX1Hijt58ljFme2y1ZcvgFf4233SNHBVBKA?width=555&height=434&cropmode=none",
+    },
+    {
+        "id":57,
+        "nombre":"Sandwich Vegetarino",
+        "precio":8500,
+        "categoria":4,
+        "imagen":"https://bl6pap003files.storage.live.com/y4mIIrgg27w6S9qv959r7bxEmqBlRA_lekhYjNNfSkPBX1gxjV7UiZnr2_UWPJhcvCfBNsTSxjaJ0dtpE3fJL-50ocg9v7lpRNKP32ResnRf2Oc1-LNSMCsNHiEE0R7T9IymSfLCzXu7pHfU0zO9WpVHFpI3YPfkULB7mp--8Gjg5E?width=660&height=489&cropmode=none",
+    },
+    {
+        "id":58,
+        "nombre":"Limonada de Mango Biche",
+        "precio":7000,
+        "categoria":1,
+        "imagen":"https://bl6pap003files.storage.live.com/y4mFdljl6PAMzBl5y-KfDCGM5i6WIn-BhwWmgbwY4aujj79vwbDZAi0_AAfsJaLqU1rfn5xqdrQGsWe0iMlFNV-reXBqcoJuihLRdA4L74rklgswjd7zcdwU5V3UhTWCl11839G4i74hz3yHY3oOW8sk3JnKROg-WyEeRNF5uQ7Ig8?width=566&height=425&cropmode=none",
+    },
+    {
+        "id":59,
+        "nombre":"Piña Colada",
+        "precio":8000,
+        "categoria":5,
+        "imagen":"https://bl6pap003files.storage.live.com/y4mszajXiRAu6q0s7PBsmU_ULuWFLlWMDVnzyBc9tiT0L6HnKz2n1AMjH9OpwVCqhmKFGxauCwR94BWcc-RQ4Vwl167Dod4O03XbknlYyOMSDozMgeKj642IBtNhV1J9bOif_3vNWRo7befx52T1BxDTdvtWM-xyk0NsPMZopb8O7w?width=584&height=424&cropmode=none",
+    },
+    {
+        "id":60,
+        "nombre":"Capuccino Amaretto",
+        "precio":11000,
+        "categoria":2,
+        "imagen":"https://bl6pap003files.storage.live.com/y4m223kC5RSwwLp-AtYND8A9h-nZkeIQ0fKYT2zG-8vVLJdPMn2HHciuJTUdnpKr-qUY9lsTovcMFsndDcNRC8BsFclu66Qoz7IHptpWfi_ccIHPCNRYHjjHCjAQWhq2k7xLRE_JhgpL_HC57oC-HMZ_hSBexcW3lZBnlCHFG--qnw?width=660&height=511&cropmode=none",
     },
 ]

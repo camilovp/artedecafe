@@ -14,7 +14,7 @@ export const MenuList = () => {
   return (
     <><div className='body-background'>
         <div className='container'>
-            <Link className='link h4 m-3' to='/'>...volver</Link>
+            <Link className='btn btn-coffe m-2' to='/'><i class="bi bi-arrow-return-left coffe"></i></Link>
             <TablaMenu categoryId = {categoryId}/>
         </div>
         </div>
