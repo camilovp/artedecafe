@@ -65,7 +65,7 @@ export const products = [
     {
         "id":10,
         "nombre":"Café Irlandes",
-        "precio":12000,
+        "precio":11000,
         "categoria":2,
         "imagen":"https://bl6pap003files.storage.live.com/y4mjWDiAFVEIeGvVEMShlOSDCZyyToDg7e7rQqv94lNb9UFrh8ghSJGlWpz8vLRtseDu_eA8Ih7qJmchqnsvNJdcJagJ_86cQE7FhLK_mGdXXbYt4XvwYU5Px5FoqgqGmwMdhLG9dek38ElbHBRw1fdZaR3HYUhxQ_UuJg6EZf3_Zg?width=566&height=427&cropmode=none",
     },
@@ -402,8 +402,8 @@ export const products = [
     {
         "id":59,
         "nombre":"Piña Colada",
-        "precio":8000,
-        "categoria":5,
+        "precio":9500,
+        "categoria":1,
         "imagen":"https://bl6pap003files.storage.live.com/y4mszajXiRAu6q0s7PBsmU_ULuWFLlWMDVnzyBc9tiT0L6HnKz2n1AMjH9OpwVCqhmKFGxauCwR94BWcc-RQ4Vwl167Dod4O03XbknlYyOMSDozMgeKj642IBtNhV1J9bOif_3vNWRo7befx52T1BxDTdvtWM-xyk0NsPMZopb8O7w?width=584&height=424&cropmode=none",
     },
     {
@@ -412,5 +412,13 @@ export const products = [
         "precio":11000,
         "categoria":2,
         "imagen":"https://bl6pap003files.storage.live.com/y4m223kC5RSwwLp-AtYND8A9h-nZkeIQ0fKYT2zG-8vVLJdPMn2HHciuJTUdnpKr-qUY9lsTovcMFsndDcNRC8BsFclu66Qoz7IHptpWfi_ccIHPCNRYHjjHCjAQWhq2k7xLRE_JhgpL_HC57oC-HMZ_hSBexcW3lZBnlCHFG--qnw?width=660&height=511&cropmode=none",
+    },
+    
+    {
+        "id":61,
+        "nombre":"Piña Colada",
+        "precio":13000,
+        "categoria":5,
+        "imagen":"https://bl6pap003files.storage.live.com/y4mszajXiRAu6q0s7PBsmU_ULuWFLlWMDVnzyBc9tiT0L6HnKz2n1AMjH9OpwVCqhmKFGxauCwR94BWcc-RQ4Vwl167Dod4O03XbknlYyOMSDozMgeKj642IBtNhV1J9bOif_3vNWRo7befx52T1BxDTdvtWM-xyk0NsPMZopb8O7w?width=584&height=424&cropmode=none",
     },
 ]
