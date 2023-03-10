@@ -16,7 +16,7 @@ export const products = [
     {
         "id":3,
         "nombre":"Capuccino Vainilla",
-        "precio":6500,
+        "precio":7000,
         "categoria":2,
         "imagen":"https://bl6pap003files.storage.live.com/y4mJay2od09h1Bx7Zy1kwujRJPp0kJsiex142rRcvXK04F11idbrkgEgyzX9UOFsSeZQrZqmMQgoU89PexH5kf8zDuxtYLW9FZ7S-wbKghEUj2YRcUttQ4XALxfLaCoTeXar-C0p-kSX7EbwahUiH8FWRuE5YwmZVparld-pRDpgDI?width=660&height=495&cropmode=none",
     },
@@ -79,7 +79,7 @@ export const products = [
     {
         "id":12,
         "nombre":"Carajillo",
-        "precio":6000,
+        "precio":6500,
         "categoria":2,
         "imagen":"https://bl6pap003files.storage.live.com/y4m6h9WGD86jizdE6jApjIYQ3Aw1Rvzv1erefFCB7JxWp4fEqI2oKR-V3V2PIwzfMSUobBDDxPStOBngLr-Jh4ZwbvPiC6xUs9CpbvwIV0u1ecs-siPPxGAQDsuen4YL9QuCs6wc-C1SuXY90DQ9yCOGAHs708GHi78er4HBtuxrPQ?width=567&height=423&cropmode=none",
     },
@@ -324,7 +324,7 @@ export const products = [
     {
         "id":48,
         "nombre":"Canelazo",
-        "precio":6000,
+        "precio":6500,
         "categoria":2,
         "imagen":"https://bl6pap003files.storage.live.com/y4mMUMEbJZ3BzlZWJWc_QboHHRcMas9hzG4GuMDUrY1i_wLiFADHJy1DnqLs3bIPv4SWF0Qp_FofpEQa6kSfuXB4vEG_-88OVG_o5RKkLDazfNKB1QaM3XA8_9OQQf73wcFAG4Zw7dGHb13ROZ1tF8ZPxmQ_mBRfchRCym6Wh8jMQY?width=565&height=425&cropmode=none",
     },
@@ -366,7 +366,7 @@ export const products = [
     {
         "id":54,
         "nombre":"Monster",
-        "precio":7000,
+        "precio":7800,
         "categoria":1,
         "imagen":"https://bl6pap003files.storage.live.com/y4mdXgrpIwPdVWL7ropLhAEvGOJ5EMR9Yy7OHos3U0DOQmZSb3tgSQmow4altVmWAbWx_G3E5G3vmrDA7ExBrKr-u-iDFsh1BblTC8PnrsTUGqPajBZKgIByk5bXNfI-qNfbQW4ivNQrbZXQVHf9NRxGiQn9EYUXToOelIoe-RoRqg?width=567&height=425&cropmode=none",
     },
@@ -413,12 +413,18 @@ export const products = [
         "categoria":2,
         "imagen":"https://bl6pap003files.storage.live.com/y4m223kC5RSwwLp-AtYND8A9h-nZkeIQ0fKYT2zG-8vVLJdPMn2HHciuJTUdnpKr-qUY9lsTovcMFsndDcNRC8BsFclu66Qoz7IHptpWfi_ccIHPCNRYHjjHCjAQWhq2k7xLRE_JhgpL_HC57oC-HMZ_hSBexcW3lZBnlCHFG--qnw?width=660&height=511&cropmode=none",
     },
-    
     {
         "id":61,
         "nombre":"Piña Colada",
         "precio":13000,
         "categoria":5,
         "imagen":"https://bl6pap003files.storage.live.com/y4mszajXiRAu6q0s7PBsmU_ULuWFLlWMDVnzyBc9tiT0L6HnKz2n1AMjH9OpwVCqhmKFGxauCwR94BWcc-RQ4Vwl167Dod4O03XbknlYyOMSDozMgeKj642IBtNhV1J9bOif_3vNWRo7befx52T1BxDTdvtWM-xyk0NsPMZopb8O7w?width=584&height=424&cropmode=none",
+    },
+    {
+        "id":62,
+        "nombre":"Sandwich Especial",
+        "precio":12000,
+        "categoria":4,
+        "imagen":"https://bl6pap003files.storage.live.com/y4m-G5y9Fonpxoi_DB8DTzLdGYcHCYuR8SPAoO_rOIKJlI4wSRMwinAd7qrqA4dFSUWE7K1P4lwtaWIZM6xU3C74WPB9Gw_b9XWALFMUD9_kJZm__N_ju1ktP3U7-5hpuW3dMm_PLQM9orYIUSoqk_4ttzA64Sfl8YJFecWwDjSuMQ?width=660&height=381&cropmode=none",
     },
 ]

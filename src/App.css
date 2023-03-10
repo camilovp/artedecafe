@@ -41,6 +41,11 @@
   text-decoration: none !important;
 }
 
+.linkInsta{
+  text-decoration: none;
+  color: #ffffff;
+}
+
 th, td{
   color: #402404 !important;
 }
