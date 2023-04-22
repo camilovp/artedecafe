@@ -240,7 +240,7 @@ export const products = [
     {
         "id":34,
         "nombre":"Club Colombia",
-        "precio":4000,
+        "precio":5000,
         "categoria":5,
         "imagen":"https://bl6pap003files.storage.live.com/y4mbQhDL7G-Aprhy4IYnyaC82TXaHx73EYavyz4_vcKn4VT8o2oMv1-ZgZwM3uJXQuIhBLXXtdZKV30wYbiLb-t4okv23g_ORRFgeo8cS9xNXSJ_9i78w2N6V9S_PJ62pQN0WKPYM1TRMQbLGBLHmOKcUl3SG3WnGs3f2sRHgNKoyk?width=567&height=423&cropmode=none",
     },
