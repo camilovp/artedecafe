@@ -239,8 +239,8 @@ export const products = [
     },
     {
         "id":34,
-        "nombre":"Club Colombia",
-        "precio":5000,
+        "nombre":"Club Colombia 250 ml",
+        "precio":4000,
         "categoria":5,
         "imagen":"https://bl6pap003files.storage.live.com/y4mbQhDL7G-Aprhy4IYnyaC82TXaHx73EYavyz4_vcKn4VT8o2oMv1-ZgZwM3uJXQuIhBLXXtdZKV30wYbiLb-t4okv23g_ORRFgeo8cS9xNXSJ_9i78w2N6V9S_PJ62pQN0WKPYM1TRMQbLGBLHmOKcUl3SG3WnGs3f2sRHgNKoyk?width=567&height=423&cropmode=none",
     },
@@ -426,5 +426,26 @@ export const products = [
         "precio":12000,
         "categoria":4,
         "imagen":"https://bl6pap003files.storage.live.com/y4m-G5y9Fonpxoi_DB8DTzLdGYcHCYuR8SPAoO_rOIKJlI4wSRMwinAd7qrqA4dFSUWE7K1P4lwtaWIZM6xU3C74WPB9Gw_b9XWALFMUD9_kJZm__N_ju1ktP3U7-5hpuW3dMm_PLQM9orYIUSoqk_4ttzA64Sfl8YJFecWwDjSuMQ?width=660&height=381&cropmode=none",
+    },
+    {
+        "id":63,
+        "nombre":"Club Colombia 330 ml",
+        "precio":5000,
+        "categoria":5,
+        "imagen":"https://bl6pap003files.storage.live.com/y4mbQhDL7G-Aprhy4IYnyaC82TXaHx73EYavyz4_vcKn4VT8o2oMv1-ZgZwM3uJXQuIhBLXXtdZKV30wYbiLb-t4okv23g_ORRFgeo8cS9xNXSJ_9i78w2N6V9S_PJ62pQN0WKPYM1TRMQbLGBLHmOKcUl3SG3WnGs3f2sRHgNKoyk?width=567&height=423&cropmode=none",
+    },
+    {
+        "id":64,
+        "nombre":"Stella 330 ml",
+        "precio":7500,
+        "categoria":5,
+        "imagen":"https://bl6pap003files.storage.live.com/y4mVz9HtyrsnvUurJvtDQwz7EPSr9sa9GQeoBBYFahmMRDlFauJ8Yb-hUzTgYMU2zN6Q5vVv1xvkBxNBc8QcUdgegRZZ0EgKo2KuR_OLLg3wg_Ip7MRJgmcrxKO_OUxVnN919bdJUCxLzhUWae75msp6uzLnIW8H9bVXSs58B4kKhY?width=561&height=418&cropmode=none",
+    },
+    {
+        "id":65,
+        "nombre":"Tres Cordilletas 330 ml",
+        "precio":8000,
+        "categoria":5,
+        "imagen":"https://bl6pap003files.storage.live.com/y4mXUiOo_qexvMHhMr4eCfj3YD5oaRmw_EzMH8MDj6wd5pt6j4_vfrArLWEJCIojP3eoxOJNTqUtTo9CRLh79w6R3qv98w5GPYUZajrX8WJF9R324HK9O6Rs9pzAVqEGNARhYk14rf8P8ZwHrnyd0WW859v8SByc-JHGzxZCQJ5BI8?width=560&height=434&cropmode=none",
     },
 ]
