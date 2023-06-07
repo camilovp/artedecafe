@@ -37,7 +37,7 @@ export const products = [
     {
         "id":6,
         "nombre":"Latte Grande",
-        "precio":5500,
+        "precio":5800,
         "categoria":2,
         "imagen":"https://bl6pap003files.storage.live.com/y4mDUIywzpCA-uhM-GdDOjTqPgdlzMkV3ndfNr8WxBSsU_hB9wl6UKhy1mu_epLYXLTZUx_p8DjC0PV8KB8Q8oCZVmVK39kECTbkfaGEV5PkwEXBctfKaYdEccWMcUlCtEcytaxL0aksNpwlbk9dr118GurCxJXliInr56Iyom3i7o?width=660&height=492&cropmode=none",
     },
@@ -79,7 +79,7 @@ export const products = [
     {
         "id":12,
         "nombre":"Carajillo",
-        "precio":6500,
+        "precio":6800,
         "categoria":2,
         "imagen":"https://bl6pap003files.storage.live.com/y4m6h9WGD86jizdE6jApjIYQ3Aw1Rvzv1erefFCB7JxWp4fEqI2oKR-V3V2PIwzfMSUobBDDxPStOBngLr-Jh4ZwbvPiC6xUs9CpbvwIV0u1ecs-siPPxGAQDsuen4YL9QuCs6wc-C1SuXY90DQ9yCOGAHs708GHi78er4HBtuxrPQ?width=567&height=423&cropmode=none",
     },
@@ -107,7 +107,7 @@ export const products = [
     {
         "id":16,
         "nombre":"Té Chai",
-        "precio":6500,
+        "precio":7000,
         "categoria":2,
         "imagen":"https://bl6pap003files.storage.live.com/y4mOanywM51u_0Ps4b3EA9EtqnGiuz9ZDZU37Z1_9U1I89CWHoVRgI28r3GoKHFStHUfemkZtqWHPrmuVmQQgxqO-UZ7jMbAv5dSAYxpY-1_Y41eHcK-iYKDIbqx1mHo8SrkdFF2BpMSZ7EpSrme9N7yVyosYfUB5HbtnE9Lz11s68?width=660&height=515&cropmode=none",
     },
@@ -121,7 +121,7 @@ export const products = [
     {
         "id":18,
         "nombre":"Té Matcha",
-        "precio":6500,
+        "precio":8000,
         "categoria":2,
         "imagen":"https://bl6pap003files.storage.live.com/y4mV60gZZCiZQf2SQc_W4q9mhzmqrIIZ2QmbLUMinfEvvb3SBNNij5VlqkcAZG1wfdedep0zhqXN1e_3TS_8gXwtdzQ41M9wPTRto930aUy3qySzyTPbcdTy9otM0_ngx-wky574RaP7M0mJsMULnlyWCFJOr-LU_esQQAA5MVsA3I?width=189&height=141&cropmode=none",
     },
@@ -134,8 +134,8 @@ export const products = [
     },
     {
         "id":20,
-        "nombre":"Milo",
-        "precio":6500,
+        "nombre":"Milo Caliente",
+        "precio":6800,
         "categoria":2,
         "imagen":"https://bl6pap003files.storage.live.com/y4mZHypzj9aG6l1hkLPVRfhDwe-24u2dFifwU3rn-W8DLmZRlM3DNIYrKgz9Ef9LdoLF45tO-nEYvhyuwk2VpIgKtFDaZ5eSTV5BO4zktwkdznmLZ_-eXrWquSB91s6Y2hJMQpjXO6sTFYQqa_4ZJBlZ9fiPh17HFaNJpnJzhfjFQ8?width=425&height=318&cropmode=none",
     },
@@ -226,7 +226,7 @@ export const products = [
     {
         "id":33,
         "nombre":"Milo Frio",
-        "precio":6800,
+        "precio":7000,
         "categoria":1,
         "imagen":"https://bl6pap003files.storage.live.com/y4mZHypzj9aG6l1hkLPVRfhDwe-24u2dFifwU3rn-W8DLmZRlM3DNIYrKgz9Ef9LdoLF45tO-nEYvhyuwk2VpIgKtFDaZ5eSTV5BO4zktwkdznmLZ_-eXrWquSB91s6Y2hJMQpjXO6sTFYQqa_4ZJBlZ9fiPh17HFaNJpnJzhfjFQ8?width=425&height=318&cropmode=none",
     },
