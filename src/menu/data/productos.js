@@ -37,14 +37,14 @@ export const products = [
     {
         "id":6,
         "nombre":"Latte Grande",
-        "precio":5800,
+        "precio":6000,
         "categoria":2,
         "imagen":"https://bl6pap003files.storage.live.com/y4mDUIywzpCA-uhM-GdDOjTqPgdlzMkV3ndfNr8WxBSsU_hB9wl6UKhy1mu_epLYXLTZUx_p8DjC0PV8KB8Q8oCZVmVK39kECTbkfaGEV5PkwEXBctfKaYdEccWMcUlCtEcytaxL0aksNpwlbk9dr118GurCxJXliInr56Iyom3i7o?width=660&height=492&cropmode=none",
     },
     {
         "id":7,
         "nombre":"Espresso",
-        "precio":4000,
+        "precio":4500,
         "categoria":2,
         "imagen":"https://bl6pap003files.storage.live.com/y4mBgPHgWT71PuVkKHJjFo2IVVlB_KNjGxWJA7PH9PW-nkStfzJe2buKGVOsOeSTuiL1y_xAzSMvOc-gBGefq-oslteuA0lR2UqJknciqYnErRb_VmHYaPJx91pHmC1mh2KUIZyHIgm5ULn6etv3ky2DE0bbHX5r7F8oY552o603ss?width=568&height=426&cropmode=none",
     },
@@ -86,7 +86,7 @@ export const products = [
     {
         "id":13,
         "nombre":"Aromatica de Jengibre",
-        "precio":3800,
+        "precio":4500,
         "categoria":2,
         "imagen":"https://bl6pap003files.storage.live.com/y4mCNzswHLfx85M8jYEcUVQJTkBl1JU8rTlmnvpNRMII0JttbO-QXoORXq-XLjpcLrm4MxzMpJCY8ibH_DVFv6wk93rGhcoRIeO-oBHEK0H8fnts814xT3rE-DvoWG3B_lZZzxY02_JwI81fz8f9piwqJdq3-zVnSs7ftnbXxwRGMY?width=570&height=425&cropmode=none",
     },
@@ -100,7 +100,7 @@ export const products = [
     {
         "id":15,
         "nombre":"Aromatica de Hierbas",
-        "precio":3000,
+        "precio":3500,
         "categoria":2,
         "imagen":"https://bl6pap003files.storage.live.com/y4mTzlVmkT2vb2wzoC6FR_IHDxsYmPgSmcgXnN-oIuzZoMMFHJq9XTwI5UGxB9uHj2Sy2Hx0Bl4rxDsdoCk8sjdV0RvlvuxcNGXOIxOGsPd47nW6z46d7d_gNZecNXe54hUO6JAVVkXu1p1KnW640hfUMk7s0VB95V8xl4-7TGbErA?width=660&height=495&cropmode=none",
     },
@@ -114,7 +114,7 @@ export const products = [
     {
         "id":17,
         "nombre":"Té de Coca",
-        "precio":5500,
+        "precio":5800,
         "categoria":2,
         "imagen":"https://bl6pap003files.storage.live.com/y4m9iPzKLhu-JvH09ph1yulYK_mZ6ZOpnOfxPmPQGLIeyIdMy0ypzxxXIm-1OOMRThACV_nngYFKo5Jtn0TcnFUoVAdGaAAC9QDm4PZPwiNVzafioZt_Ee_ultV22D9s8rlK7jh70sUeeprX6yt5_FiNGua6uqBv1qCyx63H2RQJnE?width=600&height=400&cropmode=none",
     },
@@ -128,7 +128,7 @@ export const products = [
     {
         "id":19,
         "nombre":"Frape",
-        "precio":8000,
+        "precio":8500,
         "categoria":1,
         "imagen":"https://bl6pap003files.storage.live.com/y4mh9sIpcUBsegHI5mBjsZC6_SsR1nqKgVsAgHgyfkpngFYBKU6hmJqjefXDs0X09J1Rr_XbiDJuz8lKuNZrOHt1catflfDC2Q7yLI3kOq9uloBRZCg-5jnOfLCta6rYfO1Y8TjpuWIhh1z1GiUSezut3mUh6_-f1C7dhlu5lIFMZo?width=660&height=495&cropmode=none",
     },
@@ -268,7 +268,7 @@ export const products = [
     {
         "id":39,
         "nombre":"Cheesecake",
-        "precio":6000,
+        "precio":6200,
         "categoria":3,
         "imagen":"https://bl6pap003files.storage.live.com/y4mik6EtnQG0QIbSIbUYvinUXP42svEtvS8YtThoc3IzKAWq_q9oxFV58mYYVaPuzSAAPo_lfZ1A0uI4zntylvvvOstbAUYQQ5XpZZKhAvqvHVQULk_obkBLpGpVttyqS9QVUkc1qkoXs5V_pSopuJM6ouxAAzHfpXmvBJITLfIXDc?width=578&height=428&cropmode=none",
     },
@@ -282,7 +282,7 @@ export const products = [
     {
         "id":42,
         "nombre":"Brownie",
-        "precio":4500,
+        "precio":4800,
         "categoria":3,
         "imagen":"https://bl6pap003files.storage.live.com/y4mZI9ylSNqrF1kZMSZBYsuWsH9lncgCvDNJwO264JLMveNN88eGbOuSnmWaeOgbg0_XZ9fzXzYpyWm_-y8zuyl-Iu87iyi--tAG8CGRLqvaJ4o7qCoZd3ZS0rJaoTIo6accivKlNau6NM01NV2ngCbKnAPThfyAU8jfj_cVRAvXNg?width=570&height=425&cropmode=none",
     },
@@ -296,7 +296,7 @@ export const products = [
     {
         "id":44,
         "nombre":"Sandwich",
-        "precio":8500,
+        "precio":9000,
         "categoria":4,
         "imagen":"https://bl6pap003files.storage.live.com/y4m-G5y9Fonpxoi_DB8DTzLdGYcHCYuR8SPAoO_rOIKJlI4wSRMwinAd7qrqA4dFSUWE7K1P4lwtaWIZM6xU3C74WPB9Gw_b9XWALFMUD9_kJZm__N_ju1ktP3U7-5hpuW3dMm_PLQM9orYIUSoqk_4ttzA64Sfl8YJFecWwDjSuMQ?width=660&height=381&cropmode=none",
     },
@@ -373,7 +373,7 @@ export const products = [
     {
         "id":55,
         "nombre":"Granizado Convier",
-        "precio":8500,
+        "precio":10000,
         "categoria":5,
         "imagen":"https://bl6pap003files.storage.live.com/y4mbsAFCAwHimgf_rTLkxrWRE3DyOVxB7K0ZGAJjMzL9V2a7vmFSkhgbVox2DddrpvXpeIIdv53sZsfK603Or8KNFLMS6cD75DVlK332I_1OdBsZ8tOF1mv639k8uT1CT1tRsaQfdw-FWEUFcqMspwFPHHgfltIK85df3j-hM2UtS4?width=552&height=428&cropmode=none",
     },
@@ -423,7 +423,7 @@ export const products = [
     {
         "id":62,
         "nombre":"Sandwich Especial",
-        "precio":12000,
+        "precio":12500,
         "categoria":4,
         "imagen":"https://bl6pap003files.storage.live.com/y4m-G5y9Fonpxoi_DB8DTzLdGYcHCYuR8SPAoO_rOIKJlI4wSRMwinAd7qrqA4dFSUWE7K1P4lwtaWIZM6xU3C74WPB9Gw_b9XWALFMUD9_kJZm__N_ju1ktP3U7-5hpuW3dMm_PLQM9orYIUSoqk_4ttzA64Sfl8YJFecWwDjSuMQ?width=660&height=381&cropmode=none",
     },
